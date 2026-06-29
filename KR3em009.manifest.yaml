@@ -1,0 +1,677 @@
+canonical_identifier: bkk:krp/KR3em009/v1
+canonical_location: https://kanripo.org/bkk/KR3em009/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 一草亭目科全書
+  identifiers:
+    krp: KR3em009
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em009.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3em009_000.yaml, hash: 'sha256:09f8098ff18764f3a6ced5271818d7d105b14818335aa5e6022abcab37878c2f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em009_000.markers.yaml, hash: 'sha256:a5c630aa9d40db7d1572c6f31e3cee4ab951a54ca01700c0f30b2a7020c263f4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 420
+  label: 年序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d3.h1s1
+    span:
+    - front
+    - 420
+    - 963
+  label: 曹序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d4.h1s1
+    span:
+    - front
+    - 963
+    - 1727
+  label: 胡序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d5.h1s1
+    span:
+    - front
+    - 1727
+    - 2881
+  label: 張序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d6.h1s1
+    span:
+    - front
+    - 2881
+    - 3084
+  label: 姚序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 515
+  label: 目論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d8.h1s1
+    span:
+    - body
+    - 515
+    - 927
+  label: 目議
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d9.h1s1
+    span:
+    - body
+    - 927
+    - 1092
+  label: 外障
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10.h1s1
+    span:
+    - body
+    - 1092
+    - 2913
+  label: 外障治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d4
+    span:
+    - body
+    - 1236
+    - 1682
+  label: 金液湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d5
+    span:
+    - body
+    - 1682
+    - 1752
+  label: 五龍湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d6
+    span:
+    - body
+    - 1752
+    - 1973
+  label: 玉華丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d7
+    span:
+    - body
+    - 1973
+    - 2285
+  label: 仙傳紫金膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d8
+    span:
+    - body
+    - 2285
+    - 2366
+  label: 七寶膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d9
+    span:
+    - body
+    - 2366
+    - 2526
+  label: 武當秘授仙方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d10
+    span:
+    - body
+    - 2526
+    - 2597
+  label: 人龍散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d11
+    span:
+    - body
+    - 2597
+    - 2763
+  label: 此君丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d12
+    span:
+    - body
+    - 2763
+    - 2832
+  label: 劉禹錫方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d10d13
+    span:
+    - body
+    - 2832
+    - 2913
+  label: 㗜鼻碧雲散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d11.h1s1
+    span:
+    - body
+    - 2913
+    - 3018
+  label: 內障
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12.h1s1
+    span:
+    - body
+    - 3018
+    - 7000
+  label: 內障治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d4
+    span:
+    - body
+    - 3372
+    - 3519
+  label: 六味地黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d5
+    span:
+    - body
+    - 3519
+    - 3563
+  label: 八味地黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d6
+    span:
+    - body
+    - 3563
+    - 3899
+  label: 還少丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d7
+    span:
+    - body
+    - 3899
+    - 4016
+  label: 加味逍遙散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d8
+    span:
+    - body
+    - 4016
+    - 4179
+  label: 歸脾湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d9
+    span:
+    - body
+    - 4179
+    - 4333
+  label: 天王補心丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d10
+    span:
+    - body
+    - 4333
+    - 4456
+  label: 五寶丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d11
+    span:
+    - body
+    - 4456
+    - 4745
+  label: 千金磁朱丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d12
+    span:
+    - body
+    - 4745
+    - 5089
+  label: 石斛夜光丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d13
+    span:
+    - body
+    - 5089
+    - 5318
+  label: 熊膽丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d14
+    span:
+    - body
+    - 5318
+    - 5452
+  label: 烏龍丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d15
+    span:
+    - body
+    - 5452
+    - 5589
+  label: 報恩丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d16
+    span:
+    - body
+    - 5589
+    - 5772
+  label: 孝感丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d17
+    span:
+    - body
+    - 5772
+    - 5818
+  label: 三奇丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d18
+    span:
+    - body
+    - 5818
+    - 5842
+  label: 一子丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d19
+    span:
+    - body
+    - 5842
+    - 5926
+  label: 二百花草膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d20
+    span:
+    - body
+    - 5926
+    - 6197
+  label: 補中益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d21
+    span:
+    - body
+    - 6197
+    - 6361
+  label: 菊連湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d22
+    span:
+    - body
+    - 6361
+    - 6533
+  label: 一醉飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d23
+    span:
+    - body
+    - 6533
+    - 6938
+  label: 如意飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d12d24
+    span:
+    - body
+    - 6938
+    - 7000
+  label: 救苦丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d13.h1s1
+    span:
+    - body
+    - 7000
+    - 7695
+  label: 小兒痘毒眼治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d13d20
+    span:
+    - body
+    - 7518
+    - 7567
+  label: 紫龍丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d13d21
+    span:
+    - body
+    - 7567
+    - 7638
+  label: 密蒙花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d13d22
+    span:
+    - body
+    - 7638
+    - 7695
+  label: 穀精草散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d14.h1s1
+    span:
+    - body
+    - 7695
+    - 7904
+  label: 小兒疳積眼治法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d14d4
+    span:
+    - body
+    - 7834
+    - 7904
+  label: 玉龍丹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d15.h1s1
+    span:
+    - body
+    - 7904
+    - 8101
+  label: 治小兒雀目法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d15d4
+    span:
+    - body
+    - 7983
+    - 8018
+  label: 照月飲
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d15d5
+    span:
+    - body
+    - 8018
+    - 8101
+  label: 決明夜靈散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16.h1s1
+    span:
+    - body
+    - 8101
+    - 9483
+  label: 附刻薛氏選方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d2
+    span:
+    - body
+    - 8107
+    - 8212
+  label: 明目地黃丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d3
+    span:
+    - body
+    - 8212
+    - 8297
+  label: 加減駐景丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d4
+    span:
+    - body
+    - 8297
+    - 8369
+  label: 地芝丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d5
+    span:
+    - body
+    - 8369
+    - 8470
+  label: 定志丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d6
+    span:
+    - body
+    - 8470
+    - 8583
+  label: 菊睛丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d7
+    span:
+    - body
+    - 8583
+    - 8670
+  label: 五秀重明丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d8
+    span:
+    - body
+    - 8670
+    - 8803
+  label: 瑞竹四神丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d9
+    span:
+    - body
+    - 8803
+    - 8943
+  label: 天麻丸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d10
+    span:
+    - body
+    - 8943
+    - 9032
+  label: 濟生桑白皮散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d11
+    span:
+    - body
+    - 9032
+    - 9106
+  label: 密蒙花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d12
+    span:
+    - body
+    - 9106
+    - 9249
+  label: 蟬花散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d13
+    span:
+    - body
+    - 9249
+    - 9334
+  label: 洗心散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em009_jc_000-d16d14
+    span:
+    - body
+    - 9334
+    - 9483
+  label: 洗肝散
+  type: section
+  level: 2
+hash: sha256:94eb194a1a3503c404c4f0ac69ac0c11e18fe8758a517e9259e5b29608d56e92
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
